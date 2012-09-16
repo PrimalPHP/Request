@@ -1,0 +1,18 @@
+{
+	"name": "Primal/Request",
+	"description": "A superglobal wrapper object and pre-parser which aggregates incoming data.",
+	"homepage": "http://github.com/Primal/Request",
+	"license": "MIT",
+	"keywords": ["http", "request", "post", "get", "json", "form data"],
+	"authors": [
+		{
+			"name": "Jarvis Badgley",
+			"homepage": "http://chipersoft.com",
+			"email": "primal@chipersoft.com"
+		}
+	],
+	"require": {
+		"php": ">=5.3.10"
+	},
+	"type": "library"
+}
