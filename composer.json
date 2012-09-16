@@ -14,5 +14,10 @@
 	"require": {
 		"php": ">=5.3.10"
 	},
-	"type": "library"
+	"type": "library",
+	"autoload": {
+        "psr-0": {
+            "Primal": "lib\/"
+        }
+    }
 }
