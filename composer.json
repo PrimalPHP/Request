@@ -1,5 +1,5 @@
 {
-	"name": "Primal/Request",
+	"name": "primal/request",
 	"description": "A superglobal wrapper object and pre-parser which aggregates incoming data.",
 	"homepage": "http://github.com/PrimalPHP/Request",
 	"license": "MIT",
@@ -19,5 +19,10 @@
         "psr-0": {
             "Primal": "lib\/"
         }
-    }
+    },
+	"extra": {
+		"branch-alias": {
+			"dev-master": "1.0"
+		}
+	}
 }
