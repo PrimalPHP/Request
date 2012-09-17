@@ -1,7 +1,7 @@
 {
 	"name": "Primal/Request",
 	"description": "A superglobal wrapper object and pre-parser which aggregates incoming data.",
-	"homepage": "http://github.com/Primal/Request",
+	"homepage": "http://github.com/PrimalPHP/Request",
 	"license": "MIT",
 	"keywords": ["http", "request", "post", "get", "json", "form data"],
 	"authors": [
